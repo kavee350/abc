@@ -1,13 +1,13 @@
 {
-  "name": "ASITHA-MD",
-  "description": "Javascript WhatsApp bot made by Asitha",
-  "logo": "https://telegra.ph/file/38a4ba6f7a51c15f5feaf.jpg",
+  "name": "KAVIYA-MD",
+  "description": "Javascript WhatsApp bot made by Kaveesha Imesh",
+  "logo": "content://media/external/downloads/1000031425",
   "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "9dJADara#Q7OGF5hGye8dsV5JjujzbftAahIK2MGAUinS8LXMEoc",
       "required": true
     }
 },
